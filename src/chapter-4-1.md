@@ -33,4 +33,3 @@ Conclusion
 
 AI and chatbots have significant potential to optimize traffic flow and reduce congestion in traffic management. By providing real-time data analysis, predictive modeling, and intelligent decision-making, these technologies can enhance traffic efficiency and improve overall quality of life.
 
-In the next chapter, we will explore the benefits and challenges of using AI and chatbots in traffic management in more detail.
