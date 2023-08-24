@@ -1,5 +1,3 @@
-The Role of ChatGPT in Optimizing Traffic Flow
-============================================================
 
 Traffic management is a critical component of transportation systems, with the goal of optimizing traffic flow and reducing congestion. However, addressing traffic issues can be challenging due to factors such as limited resources, legacy infrastructure, and complex regulations.
 

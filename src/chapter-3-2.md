@@ -1,5 +1,3 @@
-Common Challenges Faced by Transportation Departments
-==================================================================================================
 
 Transportation departments are responsible for managing traffic flow and ensuring the safety of commuters. However, they face numerous challenges that can make this task difficult. In this chapter, we will explore some of the common challenges faced by transportation departments in traffic management.
 

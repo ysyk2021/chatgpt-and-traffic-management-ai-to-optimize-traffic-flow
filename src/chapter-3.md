@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Traffic Management
-===========================================
 
 In this chapter, we will explore the challenges faced by transportation departments in traffic management. We will analyze factors affecting traffic management, common challenges faced by transportation departments, and the impact of these challenges on traffic flow.
 

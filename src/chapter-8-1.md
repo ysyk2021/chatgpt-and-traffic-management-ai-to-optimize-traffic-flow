@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the potential of ChatGPT to optimize traffic flow and reduce congestion in transportation systems. Here are some key points:
 

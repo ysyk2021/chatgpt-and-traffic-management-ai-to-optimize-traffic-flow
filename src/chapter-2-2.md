@@ -1,5 +1,3 @@
-Different Types of Traffic Issues
-==========================================================================
 
 Traffic issues can have a significant impact on transportation systems, leading to longer commute times, increased fuel consumption, and decreased productivity. In this chapter, we will explore the different types of traffic issues that can occur in urban areas.
 

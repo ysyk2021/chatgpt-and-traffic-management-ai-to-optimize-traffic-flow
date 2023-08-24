@@ -1,5 +1,3 @@
-How ChatGPT Can be Used for Optimizing Traffic Flow
-=====================================================================================
 
 ChatGPT is a cutting-edge natural language processing technology that can be used to optimize traffic flow and improve transportation efficiency. In this chapter, we will explore how ChatGPT works and how it can be applied to traffic management.
 

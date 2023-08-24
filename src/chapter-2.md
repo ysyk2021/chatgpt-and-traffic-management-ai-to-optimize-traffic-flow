@@ -1,5 +1,3 @@
-Chapter 1: Basics of Traffic Management
-=======================================
 
 In this chapter, we will provide an introduction to traffic management and its importance in improving transportation systems. We will define traffic management, explore different types of traffic issues, and analyze the significance of addressing traffic issues for improving transportation systems.
 

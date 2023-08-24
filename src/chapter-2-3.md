@@ -1,5 +1,3 @@
-Importance of Addressing Traffic Issues for Improving Transportation Systems
-=====================================================================================================================
 
 Traffic issues such as congestion, accidents, and delays can have a significant impact on transportation systems. In this chapter, we will explore the importance of addressing traffic issues for improving transportation systems.
 

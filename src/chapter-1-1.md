@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 Traffic management is a critical aspect of urban transportation systems. The increasing number of vehicles on roads has led to worsening congestion, delays, and accidents. To address these issues, cities are turning to advanced technologies such as AI-powered chatbots like ChatGPT.
 

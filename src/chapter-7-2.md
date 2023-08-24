@@ -1,5 +1,3 @@
-Emerging Trends and Challenges in Traffic Management and ChatGPT
-======================================================================================================================
 
 As ChatGPT technology continues to advance, new trends and challenges are emerging in traffic management. In this chapter, we will explore some of the emerging trends and challenges in traffic management and chatGPT.
 

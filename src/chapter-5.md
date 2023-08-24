@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will provide an introduction to ChatGPT and how it can be used for optimizing traffic flow. We will discuss the features and capabilities of ChatGPT and explore its potential for traffic management.
 

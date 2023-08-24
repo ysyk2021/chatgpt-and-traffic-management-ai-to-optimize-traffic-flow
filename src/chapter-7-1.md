@@ -1,5 +1,3 @@
-Potential Advancements in Traffic Management with ChatGPT
-===============================================================================================================
 
 The future of traffic management is exciting, with new advancements in technology promising to improve transportation efficiency and reduce congestion. In this chapter, we will explore some of the potential advancements in traffic management with ChatGPT technology.
 

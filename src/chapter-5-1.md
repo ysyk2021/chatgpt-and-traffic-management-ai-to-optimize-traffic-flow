@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is an AI-driven conversational model that can be used to optimize traffic flow in transportation systems. It is a type of natural language processing (NLP) technology that allows drivers to interact with the transportation system using human language.
 

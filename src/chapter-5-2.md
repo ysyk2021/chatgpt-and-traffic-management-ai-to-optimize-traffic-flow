@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is an AI-driven conversational model that can be used to optimize traffic flow in transportation systems. Here are some of the features and capabilities of ChatGPT:
 

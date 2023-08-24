@@ -1,5 +1,3 @@
-Case Studies of Transportation Departments That Have Successfully Implemented ChatGPT for Traffic Management
-====================================================================================================================================================================
 
 Several transportation departments around the world have successfully implemented ChatGPT to optimize traffic flow and reduce congestion. Here are some case studies:
 

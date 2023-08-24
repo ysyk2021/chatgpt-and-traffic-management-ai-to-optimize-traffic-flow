@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Traffic Management
-============================================================
 
 AI and chatbots are revolutionizing traffic management by providing real-time traffic updates, personalized recommendations, and predictive maintenance. In this chapter, we will explore the role of AI and chatbots in traffic management.
 
