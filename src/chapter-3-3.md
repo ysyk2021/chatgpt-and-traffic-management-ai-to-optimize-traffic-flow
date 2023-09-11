@@ -1,5 +1,4 @@
-Chapter 7: Impact of Challenges on Traffic Flow
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of traffic management and the application of AI, including ChatGPT, to optimize traffic flow, it is essential to recognize how various challenges can have a significant impact on the efficiency and effectiveness of traffic flow. In this chapter, we will delve into the consequences of these challenges and how they influence the dynamics of traffic on our roads.
 

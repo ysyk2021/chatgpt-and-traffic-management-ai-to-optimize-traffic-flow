@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is a groundbreaking artificial intelligence (AI) model developed by OpenAI. It is a part of the larger family of GPT (Generative Pre-trained Transformer) models. ChatGPT's primary purpose is to understand and generate human-like text based on the input it receives. In this chapter, we will delve into the core aspects that define ChatGPT and its significance in the context of traffic management and optimization.
 

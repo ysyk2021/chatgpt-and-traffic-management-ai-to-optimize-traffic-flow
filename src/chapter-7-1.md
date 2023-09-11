@@ -1,5 +1,4 @@
-Chapter 6: Potential Advancements in Traffic Management with ChatGPT
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT and AI technologies into traffic management systems holds the promise of significant advancements in optimizing traffic flow and enhancing transportation systems. In this chapter, we will explore the exciting potential advancements that can be realized through the continued development and utilization of ChatGPT in the field of traffic management.
 

@@ -1,5 +1,4 @@
-Chapter 6: Steps to Implement ChatGPT for Traffic Management
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing ChatGPT for traffic management involves a series of strategic steps to harness the power of AI in optimizing traffic flow. In this chapter, we will outline the essential steps and considerations for successfully integrating ChatGPT and Traffic Management AI into your transportation system.
 

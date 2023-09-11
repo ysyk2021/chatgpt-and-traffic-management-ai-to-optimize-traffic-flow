@@ -1,5 +1,4 @@
-Chapter 6: Common Challenges Faced by Transportation Departments
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Transportation departments around the world play a crucial role in managing and maintaining transportation infrastructure, ensuring the safety and efficiency of road networks. As they explore the integration of AI, including ChatGPT, into their operations to optimize traffic flow, they encounter several common challenges. In this chapter, we will examine these challenges in detail.
 

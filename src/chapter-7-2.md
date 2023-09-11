@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends and Challenges in Traffic Management and ChatGPT
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As traffic management and artificial intelligence, particularly ChatGPT, continue to evolve, several emerging trends and challenges are shaping the landscape of optimizing traffic flow. In this chapter, we will explore these trends and address the associated challenges in the context of traffic management and the use of ChatGPT.
 

@@ -1,5 +1,4 @@
-Chapter 5: How ChatGPT Can Be Used for Optimizing Traffic Flow
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) and, more specifically, ChatGPT, offer tremendous potential for revolutionizing traffic management and optimizing traffic flow within transportation systems. In this chapter, we will explore various ways in which ChatGPT can be employed to address traffic issues and enhance the efficiency of transportation networks.
 

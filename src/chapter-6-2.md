@@ -1,5 +1,4 @@
-Chapter 5: Best Practices for Using ChatGPT in Improving Traffic Flow
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for leveraging ChatGPT and Traffic Management AI to optimize traffic flow. Utilizing AI technologies can significantly enhance traffic management, but it requires careful implementation and adherence to established practices.
 

@@ -1,5 +1,4 @@
-Chapter 7: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by advanced AI and natural language processing, offers a wide range of features and capabilities that make it a versatile tool for optimizing traffic flow and enhancing traffic management systems. In this chapter, we will delve into the key attributes that make ChatGPT an invaluable asset in the field of traffic management.
 

@@ -1,5 +1,4 @@
-Chapter 1: Definition of Traffic Management
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Traffic management is a multifaceted discipline that encompasses a wide range of strategies, practices, and technologies aimed at efficiently and safely regulating the movement of vehicles, pedestrians, and goods within a transportation network. It plays a pivotal role in maintaining the functionality of road systems, enhancing safety, reducing congestion, and ensuring the overall effectiveness of urban and rural transportation infrastructure.
 

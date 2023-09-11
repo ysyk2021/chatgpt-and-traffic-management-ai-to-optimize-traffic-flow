@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this opening chapter of "ChatGPT and Traffic Management AI to Optimize Traffic Flow," we will provide a foundational understanding of Artificial Intelligence (AI) and chatbots. These technologies serve as the cornerstone for leveraging AI in traffic management to enhance traffic flow and efficiency.
 

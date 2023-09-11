@@ -1,5 +1,4 @@
-Chapter 7: Case Studies of Transportation Departments That Have Successfully Implemented ChatGPT for Traffic Management
-=======================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine real-world case studies of transportation departments that have effectively harnessed ChatGPT and Traffic Management AI to optimize traffic flow and enhance their overall transportation systems. These success stories showcase the practical application and transformative potential of AI in traffic management.
 

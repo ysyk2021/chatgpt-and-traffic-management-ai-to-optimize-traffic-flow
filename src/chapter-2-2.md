@@ -1,5 +1,4 @@
-Chapter 4: Different Types of Traffic Issues
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To effectively optimize traffic flow and improve transportation systems, it's essential to understand the various types of traffic issues that can arise within urban and rural environments. This chapter explores the diverse challenges faced by traffic management authorities and how they impact the overall functioning of transportation networks.
 

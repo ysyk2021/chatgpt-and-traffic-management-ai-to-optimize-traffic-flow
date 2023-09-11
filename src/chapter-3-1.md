@@ -1,5 +1,4 @@
-Chapter 4: Factors Affecting Traffic Management
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective traffic management involves the intricate coordination of various factors that influence the flow of vehicles and pedestrians on roadways. Understanding these factors is crucial for optimizing traffic flow and enhancing overall transportation efficiency. In this chapter, we will explore the key factors that impact traffic management and how AI, including ChatGPT, can help address these challenges.
 
